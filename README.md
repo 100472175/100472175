@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @100472175
+- 👋 Hi, I’m Edu
 - 👀 I’m interested in Computer Science, Visual Effects and much more
 - 🌱 I’m currently learning Computer Science in the university Carlos III of Madrid
 - 💞️ I’m looking to collaborate on university projects
